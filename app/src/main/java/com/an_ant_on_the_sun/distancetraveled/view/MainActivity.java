@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity
 
     private static final String KEY_RESULT = "RESULT";
 
-    private final String MAPKIT_API_KEY = "f3d00b52-0f50-4338-b54f-19993be88ef8";
+    private final String MAPKIT_API_KEY = "My Mapkit API key";
     private Point INITIAL_LOCATION_POINT = new Point(48.70939, 44.45183);
     private final float VERY_SMALL_NUMBER = 0.001f;
     private LocationListener locationListener;
