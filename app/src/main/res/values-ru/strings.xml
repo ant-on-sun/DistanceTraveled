@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Длина маршрута</string>
+    <string name="new_route">Новый маршрут</string>
+    <string name="calculate">Посчитать длину</string>
+    <string name="info">
+        Ставьте метки на карте в ключевых точках маршрута с помощью длинного нажатия или с помощью кнопки
+        \"Добавить метку\".
+        Метку можно подвинуть перетаскиванием или удалить простым нажатием.
+    </string>
+    <string name="route_length">Длина маршрута: %1$s метров</string>
+    <string name="add_mark">Добавить метку</string>
+    <string name="zoom_in">+</string>
+    <string name="zoom_out">-</string>
+    <string name="about">О приложении</string>
+    <string name="title_activity_about">О приложении</string>
+    <string name="rate_app">Поставить оценку</string>
+    <string name="support_developer">Поддержать разработчика</string>
+    <string name="appwidget_text">ПРИМЕР</string>
+    <string name="add_widget">Добавить виджет</string>
+</resources>

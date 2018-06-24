@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Distance Traveled</string>
+    <string name="new_route">New Route</string>
+    <string name="calculate">Calculate</string>
+    <string name="info">
+        Place marks on the map at the key points of your route with long tap or with \"ADD MARK\" button.
+        A mark can be moved by dragging or removed with a tap.
+    </string>
+    <string name="route_length">Length of the route: %1$s meters</string>
+    <string name="add_mark">Add Mark</string>
+    <string name="zoom_in">+</string>
+    <string name="zoom_out">-</string>
+    <string name="about">About</string>
+    <string name="title_activity_about">About App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="support_developer">Support developer</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

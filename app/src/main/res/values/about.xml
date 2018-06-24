@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_info">
+        \n
+        Application Distance Traveled\n
+        Application version: 1.0.2\n
+        Minimal Android version: 4.0.3\n
+        License: free\n
+        Terms of use of Yandex Maps: https://yandex.ru/legal/maps_termsofuse/\n\n
+        The application calculates length of the route.\n
+        You can easily set the route by setting the marks with a long tap or with \"ADD MARK\" button.\n
+        Marks are draggable, so you can move them anywhere to make your route accurate.\n
+        If you want to remove a mark, just tap on it.
+    </string>
+</resources>
