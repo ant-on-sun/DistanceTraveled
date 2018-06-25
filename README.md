@@ -6,6 +6,7 @@ Marks are draggable, so you can move them anywhere to make your route accurate.
 If you want to remove a mark, just tap on it.  
 The application uses Yandex Mapkit API.  
 Terms of use of Yandex Maps: https://yandex.ru/legal/maps_termsofuse/  
+The application supports English and Russian languages  
 Available for download and installation from https://play.google.com/store/apps/details?id=com.an_ant_on_the_sun.distancetraveled  
 
 ![Alt text](Screenshot_DistanceTraveled_(for_githab).JPG)  
